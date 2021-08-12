@@ -1,4 +1,4 @@
-# leetcode_algos
+# algos
 
 practice the leetcode`s algos by golang
 
@@ -17,5 +17,6 @@ practice the leetcode`s algos by golang
 ├── verify_brackets.go              是否为有效的括号
 ├── remove_duplicates.go            删除有序数组中的重复项
 ├── remove_element.go               删除有序数组中的指定项
+├── delete_duplicates_for_list.go   删除有序链表中的重复元素（保留一次）
 └── tow_sum.go                      俩数之和
 ```
