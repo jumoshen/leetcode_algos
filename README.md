@@ -16,5 +16,6 @@ practice the leetcode`s algos by golang
 ├── three_sum.go                    三数之和
 ├── verify_brackets.go              是否为有效的括号
 ├── remove_duplicates.go            删除有序数组中的重复项
+├── remove_element.go               删除有序数组中的指定项
 └── tow_sum.go                      俩数之和
 ```
