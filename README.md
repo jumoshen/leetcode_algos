@@ -19,5 +19,6 @@ practice the leetcode`s algos by golang
 ├── sub_string_length.go            无重复字符的最长字串长度
 ├── three_sum.go                    三数之和
 ├── three_sum_test.go
+├── verify_brackets.go              是否为有效的括号
 └── tow_sum.go                      俩数之和
 ```
