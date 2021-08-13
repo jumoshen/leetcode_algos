@@ -12,7 +12,7 @@ func TestIsValid(t *testing.T) {
 
 	tests := map[string]test{
 		"test1": {input: "{}()[]", want: true},
-		"test2": {input: "{()}[]", want: false},
+		"test2": {input: "{()}[]", want: true},
 	}
 
 	for k, test := range tests {
