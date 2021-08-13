@@ -20,5 +20,6 @@ practice the leetcode`s algos by golang
 ├── delete_duplicates_for_list.go   删除有序链表中的重复元素（保留一次）
 ├── delete_duplicates_for_list_2.go 删除有序链表中的重复元素(仅保留不重复元素)
 ├── list_has_cycle.go               判断链表是否有环
+├── reverse_list.go                 链表反转 
 └── tow_sum.go                      俩数之和
 ```
