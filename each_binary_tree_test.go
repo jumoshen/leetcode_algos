@@ -31,5 +31,5 @@ func TestPreorderTraversal(t *testing.T) {
 	fmt.Printf("先序遍历%#v\n", PreorderTraversal(root))
 	fmt.Printf("中序遍历%#v\n", InorderTraversal(root))
 	fmt.Printf("先序遍历递归%#v\n", PreorderTraversal1(root))
-	fmt.Printf("后序遍历递归%#v\n", PostorderTraversal(root))
+	fmt.Printf("后序遍历%#v\n", PostorderTraversal(root))
 }
